@@ -13,7 +13,7 @@
 
 **Python • C++ • Systems Programming**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat\&logo=github)](https://github.com/Elmar-Rafaelyevich) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat\&logo=linkedin)](https://www.linkedin.com) [![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=flat\&logo=telegram)](https://t.me/username)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat\&logo=github)](https://github.com/Elmar-Rafaelyevich) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/in/elmar-izmailov-28902326a/) [![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=flat\&logo=telegram)](https://t.me/Elmar_Izmaylov)
 
 ---
 
