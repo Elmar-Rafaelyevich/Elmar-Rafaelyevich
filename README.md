@@ -1,11 +1,7 @@
 <table>
 <tr>
-<td>
-# Engineer of Cyber Security
-</td>
-<td>
-# Back-End
-</td>
+<td><h1>Engineer of Cyber Security</h1></td>
+<td align="right"><h1>Back-End</h1></td>
 </tr>
 </table>
 
@@ -14,7 +10,6 @@
 **Python • C++ • Systems Programming**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat\&logo=github)](https://github.com/Elmar-Rafaelyevich) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/in/elmar-izmailov-28902326a/) [![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=flat\&logo=telegram)](https://t.me/Elmar_Izmaylov)
-
 ---
 
 ## Technical Stack
@@ -35,8 +30,6 @@
 ### High-Load Telegram Bot Platform
 
 * Aiogram 3.x with PostgreSQL connection pooling
-* Redis-based session caching
-* Asynchronous background tasks (Celery)
 * Django-based administration panel
 
 ### System Automation Suite
