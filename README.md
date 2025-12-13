@@ -1,8 +1,19 @@
-# Engineer of Cyber Security | Back-End
+<table>
+<tr>
+<td>
+# Engineer of Cyber Security
+</td>
+<td>
+# Back-End
+</td>
+</tr>
+</table>
 
 ## Эльмар Рафаэльевич
 
 **Python • C++ • Systems Programming**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat\&logo=github)](https://github.com/Elmar-Rafaelyevich) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat\&logo=linkedin)](https://www.linkedin.com) [![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=flat\&logo=telegram)](https://t.me/username)
 
 ---
 
