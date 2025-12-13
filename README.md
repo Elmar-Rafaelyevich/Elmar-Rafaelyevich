@@ -1,16 +1,107 @@
-## Hi there 👋
+# Engineer of Cyber Security | Back-End
 
-<!--
-**Elmar-Rafaelyevich/Elmar-Rafaelyevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Эльмар Рафаэльевич
 
-Here are some ideas to get you started:
+**Python • C++ • Systems Programming**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technical Stack
+
+### Core Technologies
+
+* **Languages:** Python 3.11+, C++17/20, SQL
+* **Backend:** Django, Django REST Framework
+* **Databases:** PostgreSQL, SQLite
+* **Telegram:** Aiogram 3.x, pyTelegramBotAPI
+* **Systems:** Windows / Linux automation, batch scripting, executable compilation
+* **Security:** Kali Linux, penetration testing tools
+
+---
+
+## Current Projects
+
+### High-Load Telegram Bot Platform
+
+* Aiogram 3.x with PostgreSQL connection pooling
+* Redis-based session caching
+* Asynchronous background tasks (Celery)
+* Django-based administration panel
+
+### System Automation Suite
+
+* Cross-platform Python utilities (.exe / .bin)
+* Windows batch automation scripts
+* System monitoring and optimization tools in C++
+
+### Database Management Systems
+
+* PostgreSQL optimization for large-scale datasets
+* SQLite embedded solutions
+* Query optimization and indexing
+
+---
+
+## Technical Expertise
+
+### Python Backend Development
+
+* Backend systems using Django and DRF
+* Asynchronous programming (asyncio)
+* Scalable service architecture
+
+### C++ Systems Programming
+
+* Performance-critical applications
+* Memory management and optimization
+* Cross-platform development
+* Low-level system utilities
+
+### Database Architecture
+
+* PostgreSQL configuration and tuning
+* Schema design
+* Query performance analysis
+* Data migration strategies
+
+### DevOps & Automation
+
+* Script automation (.bat)
+* Application packaging (.exe, PyInstaller)
+* Basic penetration testing practices
+* System hardening
+
+---
+
+## Professional Focus
+
+### Current Objectives
+
+* High-performance C++ middleware development
+* Secure authentication systems
+* Scalable bot architectures
+* Database performance optimization
+
+### Development Approach
+
+* Test-driven development
+* Code review and documentation standards
+* Security-first design
+* Performance-oriented engineering
+
+---
+
+## Technical Requirements
+
+* Python 3.11+
+* PostgreSQL 14+
+* C++17-compatible compiler
+* Linux / Windows environments
+* 64-bit architecture
+
+### Performance Targets
+
+* API response time under 200 ms
+* Optimized database queries
+* Efficient memory usage
+* Stable concurrent connection handling
