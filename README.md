@@ -50,6 +50,8 @@ API • Архитектура • Производительность
 * Django
 * Django REST Framework
 * Aiogram 3.x
+* PytelegramBotApi
+  
 
 ### Базы данных
 
