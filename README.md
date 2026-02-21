@@ -1,42 +1,100 @@
-<table> <tr> <td><h1>Кибербезопасность</h1></td> <td align="right"><h1>Back-End</h1></td> </tr> </table>
-Эльмар Рафаэльевич
-Python • C++ • Системное программирование
+# 💻 Эльмар Рафаэльевич
 
-https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin https://img.shields.io/badge/Telegram-Chat-blue?style=flat&logo=telegram
+### Backend & Cybersecurity Developer
 
+<p align="center">
+  <b>Python • C++ • Системное программирование</b>
+</p>
 
-Стек технологий
-Языки: Python 3.11+, C++17/20, SQL
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Telegram-Chat-2CA5E0?style=for-the-badge&logo=telegram"></a>
+</p>
 
-Бэкенд: Django, DRF, Aiogram 3.x
+---
 
-Базы данных: PostgreSQL, SQLite
+## 🧠 Основные направления
 
-Системы: Linux/Windows, автоматизация, batch-скрипты
+<table>
+<tr>
+<td width="50%" align="center">
 
-Безопасность: Kali Linux, пентест
+### 🔐 Кибербезопасность
 
-Проекты
-Telegram-боты (Aiogram 3.x,PytelegramBOT_API, PostgreSQL)
+Пентест • Анализ уязвимостей • Безопасная разработка
 
-Панель администратора на Django
+</td>
+<td width="50%" align="center">
 
-C++ системные утилиты
+### ⚙️ Back-End разработка
 
-Автоматизация Windows (.bat, Python)
+API • Архитектура • Производительность
 
+</td>
+</tr>
+</table>
 
-Экспертиза
-Компиляция под Windows (.exe)
+---
 
-Безопасная разработка
+## 🧰 Технологический стек
 
+### Языки
 
-Требования
-Python 3.11+, PostgreSQL 14+, C++17
+* **Python 3.11+**
+* **C++17/20**
+* **SQL**
 
-Linux/Windows, 64-bit
+### Backend
 
-Время ответа API < 200 мс
+* Django
+* Django REST Framework
+* Aiogram 3.x
 
-Стабильность под нагрузкой
+### Базы данных
+
+* PostgreSQL
+* SQLite
+
+### Системы
+
+* Linux / Windows
+* Автоматизация
+* Batch-скрипты
+
+### Безопасность
+
+* Kali Linux
+* Пентест
+
+---
+
+## 🚀 Проекты
+
+* Telegram-боты (Aiogram 3.x, PytelegramBOT_API, PostgreSQL)
+* Панель администратора на Django
+* C++ системные утилиты
+* Автоматизация Windows (.bat, Python)
+
+---
+
+## 🧩 Экспертиза
+
+* Компиляция под Windows (.exe)
+* Безопасная разработка
+
+---
+
+## ⚙️ Требования и окружение
+
+* Python 3.11+
+* PostgreSQL 14+
+* C++17
+* Linux / Windows 64-bit
+
+---
+
+## 📈 Производительность
+
+* Время ответа API < 200 мс
+* Стабильность под нагрузкой
