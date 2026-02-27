@@ -49,7 +49,6 @@ API • Архитектура • Производительность
 
 * Django
 * Django REST Framework
-* Aiogram 3.x
 * PytelegramBotApi
   
 
@@ -73,7 +72,7 @@ API • Архитектура • Производительность
 
 ## 🚀 Проекты
 
-* Telegram-боты (Aiogram 3.x, PytelegramBOT_API, PostgreSQL)
+* Telegram-боты (PytelegramBOT_API, PostgreSQL)
 * Панель администратора на Django
 * C++ системные утилиты
 * Автоматизация Windows (.bat, Python)
