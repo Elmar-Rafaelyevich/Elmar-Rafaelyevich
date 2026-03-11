@@ -36,41 +36,6 @@ API • Архитектура • Производительность
 </table>
 
 ---
-## 🏆 Достижения
-Блокировка или сообщение
-
-### 💻 Технологический стек
-- PYTHON • JAVASCRIPT • NODE.JS • PHP  
-- PYTORCH • TENSORFLOW • METAMASK • LINUX
-
----
-
-## 📊 Статистика GitHub
-
-**MrSanZ's GitHub Stats**  
-⭐ Total Stars Earned: 1.2k  
-📝 Total Commits (last year): 359  
-🔀 Total PRs: 0  
-🤝 Contributed to (last year): 0  
-
-**Оценка:** B+
-
----
-
-### 📈 График активности
-**X-Axis:** Days  
-**Y-Axis:** Contributions  
-
-**🔥 Текущая серия:** Nov 25, 2021 – Present  
-**🏅 Самая длинная серия:** Aug 3, 2025 – Aug 12, 2025  
-**📅 Последняя активность:** Mar 11
-
----
-
-## 📬 Контакты
-- [Telegram](#)
-- [GitHub](#)
-- 
 ## 🧰 Технологический стек
 
 <table>
