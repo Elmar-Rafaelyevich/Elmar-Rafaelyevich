@@ -118,17 +118,11 @@ API • Архитектура • Производительность • Djan
 
 ## 📜 Сертификаты
 
-<table>
-  <tr>
-    <td valign="top" width="70%">
-      <b>🔒 OPSWAT Academy</b><br>
-      <a href="https://learn.opswatacademy.com/certificate/KgKK3kqp-w">Сертификат по кибербезопасности</a>
-    </td>
-    <td valign="top" width="30%">
-      <b>📌 Статус:</b> ✅ Подтверждён
-    </td>
-  </tr>
-</table>
+<a href="https://learn.opswatacademy.com/certificate/KgKK3kqp-w">
+  <img src="certificate.png" width="600" alt="Сертификат OPSWAT Academy">
+</a>
+
+🔗 [Проверить сертификат онлайн](https://learn.opswatacademy.com/certificate/KgKK3kqp-w)
 
 ---
 
