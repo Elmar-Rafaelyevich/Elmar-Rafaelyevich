@@ -120,7 +120,7 @@ API • Архитектура • Производительность • Djan
 
 <p align="center">
   <a href="https://learn.opswatacademy.com/certificate/KgKK3kqp-w">
-    <img src="certificate.png" width="600" alt="Сертификат OPSWAT Academy">
+    <img src="introduction_to_cip.png" width="600" alt="Сертификат OPSWAT Academy">
   </a>
   <br>
   <em>🔒 Сертификат OPSWAT Academy — Кибербезопасность</em>
