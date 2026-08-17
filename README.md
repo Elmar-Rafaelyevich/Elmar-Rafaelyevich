@@ -2,6 +2,8 @@
 
 ### Backend & Cybersecurity Developer
 
+---
+
 ## 🧠 Основные направления
 
 <table>
@@ -9,92 +11,161 @@
 <td width="50%" align="center">
 
 ### 🔐 Кибербезопасность
-
-Пентест • Анализ уязвимостей • Безопасная разработка
+Пентест • Анализ уязвимостей • Сканирование сетей • Безопасная разработка • Kali Linux
 
 </td>
 <td width="50%" align="center">
 
 ### ⚙️ Back-End разработка
-
-API • Архитектура • Производительность
+API • Архитектура • Производительность • Django • REST API • Telegram Bot API
 
 </td>
 </tr>
 </table>
 
 ---
+
 ## 🧰 Технологический стек
 
 <table>
   <tr>
     <td valign="top" width="33%">
-      <b>Языки</b><br>
+      <b>🐍 Языки</b><br>
       • Python 3.11+<br>
       • C++17/20<br>
-      • SQL
+      • SQL<br>
+      • Bash<br>
+      • Batch (Windows)
     </td>
     <td valign="top" width="33%">
-      <b>Backend</b><br>
+      <b>⚙️ Backend</b><br>
       • Django<br>
       • Django REST Framework<br>
-      • PytelegramBotApi
+      • PyTelegramBotAPI<br>
+      • REST API (собственные разработки)
     </td>
     <td valign="top" width="33%">
-      <b>Базы данных</b><br>
-      • PostgreSQL<br>
-      • SQLite
+      <b>💾 Базы данных</b><br>
+      • PostgreSQL 14+<br>
+      • SQLite<br>
+      • Оптимизация SQL-запросов
     </td>
   </tr>
   <tr>
     <td valign="top" width="33%">
-      <b>Системы</b><br>
-      • Linux / Windows<br>
-      • Автоматизация<br>
-      • Batch-скрипты
+      <b>🐧 Системы</b><br>
+      • Linux (Kali, Ubuntu)<br>
+      • Windows 10/11<br>
+      • MacOS<br>
+      • Bash-скрипты<br>
+      • Автоматизация
     </td>
-    <td valign="top" width="66%" colspan="2">
-      <b>Безопасность</b><br>
+    <td valign="top" width="33%">
+      <b>🛡️ Безопасность</b><br>
       • Kali Linux<br>
-      • Пентест<br>
-      • Безопасная разработка
+      • Nmap (все виды сканирования)<br>
+      • Hydra (брутфорс)<br>
+      • Metasploit Framework<br>
+      • Сканирование сетей
+    </td>
+    <td valign="top" width="33%">
+      <b>🛠️ Инструменты</b><br>
+      • Git / GitHub<br>
+      • VS Code / PyCharm<br>
+      • Sublime Text / Notepad2<br>
+      • UTM (виртуализация)
     </td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Опыт и компетенции
+## 🚀 Проекты и компетенции
 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <b>💻 Проекты</b><br>
-      • Telegram-боты (PytelegramBOT_API, PostgreSQL)<br>
-      • Панель администратора на Django<br>
-      • C++ системные утилиты<br>
-      • Автоматизация Windows (.bat, Python)
+      <b>🤖 Telegram-боты</b><br>
+      • Разработка на PyTelegramBotAPI<br>
+      • Подключение к PostgreSQL<br>
+      • Администрирование и управление пользователями
     </td>
     <td valign="top" width="50%">
-      <b>🧩 Экспертиза</b><br>
-      • Компиляция под Windows (.exe)<br>
-      • Безопасная разработка<br>
-      • Создание защищенного API<br>
-      • Системное администрирование
+      <b>🌐 Веб-приложения</b><br>
+      • Панель администратора на Django<br>
+      • REST API для мобильных приложений<br>
+      • Аутентификация и авторизация
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <b>⚙️ Требования и окружение</b><br>
-      • Python 3.11+ | C++17<br>
-      • PostgreSQL 14+<br>
-      • Linux / Windows 64-bit
+      <b>🛡️ Сканеры сетей (Bash)</b><br>
+      • Интерактивное меню для Nmap<br>
+      • 10 видов сканирования<br>
+      • Цветной вывод<br>
+      • Обработка ошибок
     </td>
     <td valign="top" width="50%">
-      <b>📈 Производительность</b><br>
-      • Время ответа API < 200 мс<br>
-      • Стабильность под высокой нагрузкой<br>
-      • Оптимизация SQL-запросов
+      <b>⚡ Системные утилиты</b><br>
+      • C++ утилиты для Windows<br>
+      • Автоматизация .bat скриптов<br>
+      • Управление процессами
     </td>
   </tr>
 </table>
+
+---
+
+## 📜 Сертификаты
+
+<table>
+  <tr>
+    <td valign="top" width="70%">
+      <b>🔒 OPSWAT Academy</b><br>
+      <a href="https://learn.opswatacademy.com/certificate/KgKK3kqp-w">Сертификат по кибербезопасности</a>
+    </td>
+    <td valign="top" width="30%">
+      <b>📌 Статус:</b> ✅ Подтверждён
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 Требования к проектам
+
+| Параметр | Значение |
+| :--- | :--- |
+| **Python** | 3.11+ |
+| **C++** | C++17/20 |
+| **PostgreSQL** | 14+ |
+| **SQLite** | 3.x |
+| **ОС** | Linux / Windows / MacOS |
+| **Время ответа API** | < 200 мс |
+| **Стабильность** | Под высокой нагрузкой |
+
+---
+
+## 📌 Контакты
+
+- **GitHub:** [ваш_github](https://github.com/ваш_github)
+- **Telegram:** [@ваш_телеграм](https://t.me/ваш_телеграм)
+- **Email:** ваш_email@example.com
+
+---
+
+## ⚡ Итог
+
+**Я умею:**
+
+✅ Разрабатывать **Telegram-ботов** и **веб-приложения** на Python (Django)  
+✅ Настраивать и подключать **PostgreSQL**  
+✅ Писать **Bash-скрипты** для Kali Linux (Nmap, Hydra, Metasploit)  
+✅ Сканировать сети и анализировать уязвимости  
+✅ Писать системные утилиты на **C++**  
+✅ Автоматизировать задачи на **Windows** (.bat)  
+✅ Работать в **Linux**, **Windows** и **MacOS**
+
+---
+
+**Готов к новым проектам и вызовам!** 🚀
