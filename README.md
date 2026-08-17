@@ -144,23 +144,7 @@ API • Архитектура • Производительность • Djan
 ## 📌 Контакты
 
 - **GitHub:** [@Elmar-Rafaelyevich](https://github.com/Elmar-Rafaelyevich)
-- **Telegram:** [@ваш_телеграм](https://t.me/ваш_телеграм)
-- **Email:** ваш_email@example.com
+- **Telegram:** [@ваш_телеграм](@Elmar_Izmaylov)
+- **Email:** elmarizmailov667@gmail.com
 
 ---
-
-## ⚡ Итог
-
-**Я умею:**
-
-✅ Разрабатывать **Telegram-ботов** и **веб-приложения** на Python (Django)  
-✅ Настраивать и подключать **PostgreSQL**  
-✅ Писать **Bash-скрипты** для Kali Linux (Nmap, Hydra, Metasploit)  
-✅ Сканировать сети и анализировать уязвимости  
-✅ Писать системные утилиты на **C++**  
-✅ Автоматизировать задачи на **Windows** (.bat)  
-✅ Работать в **Linux**, **Windows** и **MacOS**
-
----
-
-**Готов к новым проектам и вызовам!** 🚀
