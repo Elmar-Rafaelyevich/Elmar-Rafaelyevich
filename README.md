@@ -1,4 +1,4 @@
-# 💻 Эльмар Рафаэльевич
+# Эльмар Рафаэльевич
 
 ### Backend & Cybersecurity Developer
 
@@ -131,6 +131,7 @@ API • Архитектура • Производительность • Djan
     </a>
   </strong>
 </p>
+
 ---
 
 ## 📈 Требования к проектам
@@ -149,7 +150,7 @@ API • Архитектура • Производительность • Djan
 
 ## 📌 Контакты
 
-- **GitHub:** [ваш_github](https://github.com/ваш_github)
+- **GitHub:** [@Elmar-Rafaelyevich](https://github.com/Elmar-Rafaelyevich)
 - **Telegram:** [@ваш_телеграм](https://t.me/ваш_телеграм)
 - **Email:** ваш_email@example.com
 
