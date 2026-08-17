@@ -143,8 +143,8 @@ API • Архитектура • Производительность • Djan
 
 ## 📌 Контакты
 
-- **GitHub:** [@Elmar-Rafaelyevich](https://github.com/Elmar-Rafaelyevich)
-- **Telegram:** [@ваш_телеграм](https://t.me/@Elmar_Izmaylov)
+- **GitHub:** https://github.com/Elmar-Rafaelyevich
+- **Telegram:** https://t.me/@Elmar_Izmaylov
 - **Email:** elmarizmailov667@gmail.com
 
 ---
