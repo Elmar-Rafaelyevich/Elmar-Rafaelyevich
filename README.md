@@ -1,8 +1,12 @@
-# Эльмар Рафаэльевич
+# 💻 Эльмар Рафаэльевич
 
 ### Backend & Cybersecurity Developer
 
 ---
+
+<table>
+<tr>
+<td width="60%">
 
 ## 🧠 Основные направления
 
@@ -116,24 +120,6 @@ API • Архитектура • Производительность • Djan
 
 ---
 
-## 📜 Сертификаты
-
-<p align="center">
-  <a href="https://learn.opswatacademy.com/certificate/KgKK3kqp-w">
-    <img src="introduction_to_cip.png" width="600" alt="Сертификат OPSWAT Academy">
-  </a>
-  <br>
-  <em>🔒 Сертификат OPSWAT Academy — Кибербезопасность</em>
-  <br>
-  <strong>
-    <a href="https://learn.opswatacademy.com/certificate/KgKK3kqp-w">
-      🔗 Проверить сертификат онлайн
-    </a>
-  </strong>
-</p>
-
----
-
 ## 📈 Требования к проектам
 
 | Параметр | Значение |
@@ -171,3 +157,25 @@ API • Архитектура • Производительность • Djan
 ---
 
 **Готов к новым проектам и вызовам!** 🚀
+
+</td>
+<td width="40%" valign="top" align="center">
+
+## 📜 Сертификаты
+
+<a href="https://learn.opswatacademy.com/certificate/KgKK3kqp-w">
+  <img src="introduction_to_cip.png" width="100%" alt="Сертификат OPSWAT Academy">
+</a>
+
+<br><br>
+
+**🔒 OPSWAT Academy**  
+*Introduction to Critical Infrastructure Protection*
+
+<br>
+
+🔗 [**Проверить сертификат**](https://learn.opswatacademy.com/certificate/KgKK3kqp-w)
+
+</td>
+</tr>
+</table>
