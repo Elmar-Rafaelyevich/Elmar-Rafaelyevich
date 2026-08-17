@@ -2,18 +2,6 @@
 
 ### Backend & Cybersecurity Developer
 
-<p align="center">
-  <b>Python • C++ • Системное программирование</b>
-</p>
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Telegram-Chat-2CA5E0?style=for-the-badge&logo=telegram"></a>
-</p>
-
----
-
 ## 🧠 Основные направления
 
 <table>
